@@ -1,3 +1,7 @@
+![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/7f9412e9-a773-46a5-9738-d1eee28e40fc)
+# Customer Chun Prediction Model
+$Author$ - Bravin Mugangasia
+
 # Business Problem:
 
 The telecommunications company has been experiencing a high rate of customer churn, leading to a loss of revenue and market share. 
