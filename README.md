@@ -152,9 +152,8 @@ Based on the AUC scores alone, the Random Forest model appears to be the best pe
 
 * Most Churn customers are international clients. This might be because of high charges or Tarrifs from the telcom provider.
 
-RECCOMENDATIONS 
+# RECCOMENDATIONS 
+
 Given that Random Forest Does a better job of predicting Customer Churn, we need feature engineering and a larger dataset with more features to help intergrate other factors for better prediction and course of action to be taken.
-
-
 
 
