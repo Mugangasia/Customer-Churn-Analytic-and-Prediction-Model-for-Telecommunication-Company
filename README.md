@@ -110,7 +110,6 @@ Precision :  0.763
 Recall    :  0.733
 ROC AUC Score: 0.846
 
-............................................
 Random Forest:
 Accuracy  : 0.913
 F1 Score  : 0.633
@@ -118,7 +117,6 @@ Precision : 0.877
 Recall    : 0.495
 ROC AUC Score: 0.741
 
-............................................
 KNN:
 Accuracy  : 0.855
 F1 Score  : 0.171
