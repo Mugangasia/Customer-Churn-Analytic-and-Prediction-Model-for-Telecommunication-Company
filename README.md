@@ -71,12 +71,12 @@ We used three different models to predict Customer Churn. Logistics Regression, 
 
 ![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/011ded4a-537c-4c04-8642-812f3b8f57ce)
                              Metrics
-Accuracy                     0.844078
-Precision                    0.333333
-Recall                       0.029703
-F1 Score                     0.054545
-Confusion Matrix  [[560, 6], [98, 3]]
-AUC Score                    0.763916
+                             Accuracy                     0.844078
+                             Precision                    0.333333
+                             Recall                       0.029703
+                             F1 Score                     0.054545
+                             Confusion Matrix  [[560, 6], [98, 3]]
+                             AUC Score                    0.763916
 
 * Accuracy: ```85.01%``` - This represents the overall accuracy of the model in correctly predicting the target variable on the test data.
 * Precision: ```57.14%``` - This indicates the proportion of true positive predictions out of the total positive predictions. It measures the model's ability to avoid false positive predictions.
@@ -89,12 +89,12 @@ AUC Score                    0.763916
 ![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/68e8e115-3042-47e0-a8c0-fbc33125a157)
 
                              Metrics
-Accuracy                     0.844078
-Precision                    0.333333
-Recall                       0.029703
-F1 Score                     0.054545
-Confusion Matrix  [[560, 6], [98, 3]]
-AUC Score                    0.763916
+                             Accuracy                     0.844078
+                             Precision                    0.333333
+                             Recall                       0.029703
+                             F1 Score                     0.054545
+                             Confusion Matrix  [[560, 6], [98, 3]]
+                             AUC Score                    0.763916
 
 * Based on these metrics, ```Model 1``` performs better in terms of accuracy, precision, recall, ```F1 score```, and ```AUC``` score compared to ```Model 2```. ```Model 1``` has higher values for all these metrics, indicating better overall performance in predicting the target variable.
 
