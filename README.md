@@ -45,11 +45,26 @@ The target is to achieve a significant reduction in churn rate within a specifie
 * The ```churn``` Distribution is normally Distributed between the ```False``` and ```True``` Values.
 * The CUstomer service calls have outliers but they are not true outliers. WE will keep them in the analysis.
 
-![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/c2ae4861-bcc6-4958-981d-511796a16642)
+![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/eda6d9ea-e12f-422e-ba4f-9471e0a290e9)
+
 * A churn rate of ```0.1449``` (or 14.49%) means that, on average, 14.49% of customers in the given dataset have discontinued or terminated their service within a specific period of time.
 
 * In this context, the churn rate represents the percentage of customers who have churned (cancelled their subscriptions or switched to a competitor's service) out of the total number of customers in the dataset. 
 * A higher churn rate indicates a higher rate of customer attrition, which can have negative implications for a business, such as loss of revenue, market share, and customer loyalty.
+
+![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/cb3281ad-ee93-461a-ae00-4a5ab1463545)
+![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/33917787-546d-499b-a8aa-e60338e6c780)
+
+* The number of days the customer has been with the service provider does not affect the chun rate.
+* The total number of minutes the customer used during the day has a negligable relationship between Non-churn and Churn customers.
+* The number of customer service calls made by the customer affects the churn rate. WE have high churned subscribers with high customer service calls.
+* Most Churn customers are international clients. This might be because of high charges or Tarifs from the telcom provider.
+
+# MODELING
+We used three different models to predict Customer Churn. Logistics Regression, Decision Tree, Random Forest, K-Nearest Neighbors and HYperparameter tunning usind GridSearch CV.
+
+MODEL 1 : LOGISTICS REGRESSION 
+
 
 
 
