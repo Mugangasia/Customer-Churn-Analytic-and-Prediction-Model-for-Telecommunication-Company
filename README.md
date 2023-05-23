@@ -70,6 +70,7 @@ We used three different models to predict Customer Churn. Logistics Regression, 
 #### MODEL 1 : LOGISTICS REGRESSION 
 
 ![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/011ded4a-537c-4c04-8642-812f3b8f57ce)
+
                              Metrics
                              Accuracy                     0.844078
                              Precision                    0.333333
