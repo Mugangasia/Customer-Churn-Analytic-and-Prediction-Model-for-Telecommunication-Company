@@ -12,7 +12,7 @@ The target is to achieve a significant reduction in churn rate within a specifie
 # Data Understanding
 
 * ```State:``` The state in which the customer resides.
-* ````Account length:``` The number of days the customer has been with the service provider.
+* ```Account length:``` The number of days the customer has been with the service provider.
 * ```Area code:``` The telephone area code associated with the customer's phone number.
 * ```Phone number:``` The customer's phone number.
 * ```International plan:``` Whether the customer has an international calling plan (yes or no).
