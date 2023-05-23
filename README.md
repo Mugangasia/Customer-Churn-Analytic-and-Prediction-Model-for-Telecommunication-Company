@@ -37,4 +37,4 @@ The target is to achieve a significant reduction in churn rate within a specifie
 
 1. Explaratory Analysis
 
-<img src="/home/bravin/Documents/Projects/Moringa Phase 3 Projects/Telecom Churn Prediction/image/output.png" alt="example image" width="500" height="250">
+![output](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/0d17f407-d22a-42d9-8d3a-96aaa6e45c0d)
