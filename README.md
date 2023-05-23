@@ -36,5 +36,22 @@ The target is to achieve a significant reduction in churn rate within a specifie
 # Results
 
 1. Explaratory Analysis
-
+ 
 ![output](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/0d17f407-d22a-42d9-8d3a-96aaa6e45c0d)
+
+* Majority of the DataFrame has subscribers on the ```international Plan``` ans ```Voice Mail Plan.```
+
+![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/d882e9e0-c2c5-4709-b7ce-9fffd21b31e3)
+* The ```churn``` Distribution is normally Distributed between the ```False``` and ```True``` Values.
+* The CUstomer service calls have outliers but they are not true outliers. WE will keep them in the analysis.
+
+![image](https://github.com/Mugangasia/Customer-Churn-Analytic-and-Prediction-Model-for-Telecommunication-Company/assets/98708792/c2ae4861-bcc6-4958-981d-511796a16642)
+* A churn rate of ```0.1449``` (or 14.49%) means that, on average, 14.49% of customers in the given dataset have discontinued or terminated their service within a specific period of time.
+
+* In this context, the churn rate represents the percentage of customers who have churned (cancelled their subscriptions or switched to a competitor's service) out of the total number of customers in the dataset. 
+* A higher churn rate indicates a higher rate of customer attrition, which can have negative implications for a business, such as loss of revenue, market share, and customer loyalty.
+
+
+
+
+
