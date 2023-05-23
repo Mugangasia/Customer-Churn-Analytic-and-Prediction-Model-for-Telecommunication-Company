@@ -4,14 +4,14 @@ $Author$ - Bravin Mugangasia
 
 # Business Problem:
 
-A telecommunications client has been experiencing a high rate of customer churn, leading to a loss of revenue and market share. 
+A telecommunications client SyriaTel has been experiencing a high rate of customer churn, leading to a loss of revenue and market share. 
 The churn rate has been steadily increasing, and it is crucial for the company to address this issue promptly. 
 The business problem is to reduce customer churn and improve customer retention by helping predict which clients are more likely to end subscriptions. 
 
 # Objectives:
 
 Create a Predictive model that will help identify which customers are likely to churn. The primary objective is to decrease the percentage of customers who cancel their subscriptions or switch to a competitor's service. 
-The target is to achieve a charn rate predictive model that is as accurate as possible.
+The target is to build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. This is a binary classification problem.
 
 # Data Understanding
 
