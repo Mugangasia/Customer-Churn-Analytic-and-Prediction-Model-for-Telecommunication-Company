@@ -4,14 +4,14 @@ $Author$ - Bravin Mugangasia
 
 # Business Problem:
 
-The telecommunications company has been experiencing a high rate of customer churn, leading to a loss of revenue and market share. 
+A telecommunications client has been experiencing a high rate of customer churn, leading to a loss of revenue and market share. 
 The churn rate has been steadily increasing, and it is crucial for the company to address this issue promptly. 
-The business problem is to reduce customer churn and improve customer retention.
+The business problem is to reduce customer churn and improve customer retention by helping predict which clients are more likely to end subscriptions. 
 
 # Objectives:
 
-Reduce customer churn rate: The primary objective is to decrease the percentage of customers who cancel their subscriptions or switch to a competitor's service. 
-The target is to achieve a significant reduction in churn rate within a specified timeframe.
+Create a Predictive model that will help identify which customers are likely to churn. The primary objective is to decrease the percentage of customers who cancel their subscriptions or switch to a competitor's service. 
+The target is to achieve a charn rate predictive model that is as accurate as possible.
 
 # Data Understanding
 
